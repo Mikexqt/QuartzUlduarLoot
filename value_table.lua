@@ -57,7 +57,7 @@ dkp_value_table = {
 {["loot_id"]="45185",["loot_name"] = "Flamewrought Cinch",["loot_value"] = "",["loot_zone"] = "Ulduar N25",["loot_bosses"] = "Ignis",},
 {["loot_id"]="45161",["loot_name"] = "Girdle of Embers",["loot_value"] = "",["loot_zone"] = "Ulduar N25",["loot_bosses"] = "Ignis",},
 {["loot_id"]="45158",["loot_name"] = "Heart of Iron",["loot_value"] = "",["loot_zone"] = "Ulduar N25",["loot_bosses"] = "Ignis",},
-{["loot_id"]="45164",["loot_name"] = "Helm of the Furnace Master",["loot_value"] = "",["loot_zone"] = "Ulduar N25",["loot_bosses"] = "Ignis",},
+{["loot_id"]="45164",["loot_name"] = "Helm of the Furnace Master",["loot_value"] = "[H_Survie=A4]",["loot_zone"] = "Ulduar N25",["loot_bosses"] = "Ignis",},
 {["loot_id"]="45171",["loot_name"] = "Intensity",["loot_value"] = "",["loot_zone"] = "Ulduar N25",["loot_bosses"] = "Ignis",},
 {["loot_id"]="45167",["loot_name"] = "Lifeforge Breastplate",["loot_value"] = "",["loot_zone"] = "Ulduar N25",["loot_bosses"] = "Ignis",},
 {["loot_id"]="45168",["loot_name"] = "Pyrelight Circle",["loot_value"] = "",["loot_zone"] = "Ulduar N25",["loot_bosses"] = "Ignis",},
